@@ -11,7 +11,7 @@ Idola = "Steve Jobs"
 Tempat_lahir = "Bandar Lampung"
 Alamat = "Bantul, Daerah Istimewa Yogyakarta"
 
-Tinggi_badan = 166
+Tinggi_badan = 165.6
 Berat_badan = 60
 Ukuran_sepatu = 40
 
